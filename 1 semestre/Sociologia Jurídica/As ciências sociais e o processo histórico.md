@@ -59,8 +59,9 @@ São produto de circunstâncias históricas e necessidades materiais e sociais.
 
 
 - fatores decorrentes do "sistema de ciências"
-As crises provocadas pelos acontecimentos sociais de XVIII -> métodos das ciências da natureza podiam ser estendidos aos estudos das questões humanas e sociais. Fenômenos sociais podiam ser classificados e medidos.
-A partir do séc. XVIII -> técnicas racionais para controlar os conflitos criados pelas crises da época levam à formação das Ciências Sociais.
+
+    As crises provocadas pelos acontecimentos sociais de XVIII -> métodos das ciências da natureza podiam ser estendidos aos estudos das questões humanas e sociais. Fenômenos sociais podiam ser classificados e medidos.
+    A partir do séc. XVIII -> técnicas racionais para controlar os conflitos criados pelas crises da época levam à formação das Ciências Sociais.
 
 ### As Ciências Sociais
 
