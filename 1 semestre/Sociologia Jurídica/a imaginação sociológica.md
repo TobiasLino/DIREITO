@@ -5,16 +5,38 @@
 - premissa sociológica básica: pensamento, ação e sentimento são influenciados pelas posições na sociedade.
 ### O que é Sociologia?
 Estudo sistemático da relação entre o indivíduo e a sociedade e as consequências da diferença.
-#### Imaginação sociológica
-Consciência da relação dos individuos com as forças sociais.
 
-> C. Wright Mills - história e biografia
+> **Pierre Bourdieu** -> a função da sociologia, como de todas as ciências é revelar o que está oculto.
+
+***A forma como pensamos, aquilo que fazemos e até mesmo o que sentimos são influenciados pelas posições que ocupamos na sociedade.***
+
+> O indivíduo faz a sociedade ou a sociedade faz o indivíduo?
+> 
+> é uma influência mútua
+> 
+> O inividualismmo só é possível graças a nossa interdependência
+
+#### Imaginação sociológica
+Consciência da relação de quem somos como individuos com as forças sociais que moldam nossas vidas.
+
+> C. Wright Mills - capacidade de ver a relação entre **história e biografia**
+> - história
+>   - posição que ocupamos
+>   - recursos
+> - biografia
+>   - experiência pessoal
+>   - escolhas
+>   - pensamentos
+>
+> Como indivíduos, nós agimos, mas o fazemos dentro do contexto e dos limites da sociedade
  
 > **Transtornos privados** - problemas que enfrentamos em nossas vidas pessoais, com indivíduos específicos.
 > 
 > **Transtornos públicos** - problemas de ordem social, que são resultado de nossas posições na sociedade
 
 #### A imaginação sociológica é uma ferramenta de empoderamento.
+
+Nos permite ver de que forma fatores como idade, gênero, raça, etnia, classe egrau de instrução define suas preferências, percepções e oportunidades.
 
 ### Definindo Sociologia
 - Estudo sistemático
