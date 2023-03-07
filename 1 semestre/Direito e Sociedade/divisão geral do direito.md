@@ -79,7 +79,7 @@ Estado é uma realidade cultural construída historicamente em virtude da própr
 > Não é possível falar em direito positivo sem a ciência do direito.
 
 
-Nexo casual natural -> se A então é B - causalidade;
+Nexo causal natural -> se A então é B - causalidade;
 
 Nexo normativo -> se A então deve ser B - imputação;
 
