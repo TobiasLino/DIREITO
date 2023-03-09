@@ -38,16 +38,40 @@ Consciência da relação de quem somos como individuos com as forças sociais q
 
 Nos permite ver de que forma fatores como idade, gênero, raça, etnia, classe egrau de instrução define suas preferências, percepções e oportunidades.
 
+
+> PQP
 ### Definindo Sociologia
-- Estudo sistemático
-- O indivíduo
+- #### Estudo sistemático
+  - coleta de dados empíricos por meio de pesquisa sistemática
+  - feito com método quantitativo (surveys) ou qualitativo (entrevista e participação observadora)
+- #### O indivíduo
+  - seguem diretrizes de comportamento, mas têm capacidade de rejeitá-las
   - agência - liberdade de fazer escolhas e agir.
-- Sociedade - centro da sociologia; padrões persistentes de relações e redes sociais nas quais atuamos.
-- As consequências da diferença - como os recursos econômicos, sociais e culturais são distribuídos e suas implicações em termos das oportunidades e dos obstáculos que criam para indivíduos e grupos - **desigualdade social**
+  - agimos dentro do contexto das nossas relações
+  - escolhas são limitadas pelas nossas posições
+- #### Sociedade 
+  - centro da sociologia; 
+  - padrões persistentes de relações e redes sociais nas quais atuamos.
+  - estrutura social é análoga a um edifício
+    - dependendo da planta, incentiva e desincentiva as atividades
+    - muitas das operações essenciais estão invisíveis para nós
+  - a estrutura das insituições define aquilo que se espera de nós
+    - grupos, subgrupos e status
+  - construímos cultura e nos envolvemos em interação social dentro do contexto da sociedade
+- #### As consequências da diferença 
+  - como os recursos econômicos, sociais e culturais são distribuídos e suas implicações em termos das oportunidades e dos obstáculos que criam para indivíduos e grupos 
+  - **desigualdade social**
+
+> Pierre Bourdieu -> "a sociologia ensina como os grupos funcionam e como fazer uso das leis que regem seu funcionamento, de modo a tentar contorná-las"
+
+> PQP
+
 
 ### A sociologia e as ciências sociais
 - estuda o impacto dos conflitos da sociedade nos indivíduos dependendo de sua posição scial
 - diferente de senso comum, pois é realizado através do estudo sistemático dos casos abordados
+  - nem sempre o senso comum está errado
+
 
 ### Teoria sociológica
 - *Durkheim* - por que as pessoas se suicidam? -> não possuem conexões e obrigações sociais que as impediriam de o realizar
