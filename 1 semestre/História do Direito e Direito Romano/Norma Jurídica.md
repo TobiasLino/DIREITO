@@ -74,9 +74,9 @@ A norma é uma imposição legal.
   - muitos lugares hoje não adotam as normas escritas
 
 
-- Constitucionais - CF, lei maior
+#### Constitucionais - CF, lei maior
   - dita a forma de ser do estado
-- ordinárias 
+#### ordinárias 
   - comuns
 
 
@@ -100,12 +100,78 @@ A norma é uma imposição legal.
   - há uma presunção legal que a posse da pessoa é melhor que a do proprietário
 - posse violenta não valida o uso capião
 
+
+Pode ser entre:
+- pessoas e pessoas
+- pessoas e coisas
+
 # Fontes de Direito
+
+Da onde surge o direito
+
 ## Leis 
+Na *civil law*, ela é a principal fonte
+
+- diferente das ciências físicas, onde a lei não muda
+- o direito não pode ser assim, pois a sociedade evolui e ele deve acompanhá-la
+
 ## Costumes
+Mais importante no *common law*
+
+- no *civil law*, um costume nunca vai revogar uma lei
+- é possível pensar em costumes violentos, mas o direito, com sua função pacificadora, não permite normas violentas
+
+Temos costumes
+- a favor da lei
+- contra a lei
+
 ## Doutrina
+- livros dos que estudaram o direito
+- doutrinador apenas supõe uma interpretação do direito
+- todos são pensados com base na lei
+
 ## Jurisprudência
+Mais importante no *common law*.
+
+São decisões reinteradas, por um tribunal, com o mesmo sentido
+- só os tribunais formam a jurisprudência
+- é preciso ter várias decisões
+
+- quer dizer "dizer o direito"
+
+> Justiça federal julga casos que envolvam pessoas jurídicas de direito público
+> 
+> - só um juíz -> órgão juridicional singular
+> - no tribunal -> decisões colegiadas (mais de um juíz)
+> 
+> 
+> Divisão política e administrativa da justiça
+> - cada cidade tem sua comarca que depende da quantidade de habitantes e processos
+> - os estados possuem seu tribunal
+> 
+> 
+> Tribunais
+> - TRF
+> - TJ
+> 
+> Tribunais superiores
+> - STF
+> - STJ
+> - TSE
+> - TST
+
 ## Princípios Gerais do Direito
+Princípios que regem o direito
+
+- princípio da boa-fé
+- princípio da probidade
+
+## Decreto
+Hoje:
+- emana do Executivo
+
+Antigamente:
+- eram a lei
 
 # Fontes históricas do Direito
 ## Sistema Jurídico
@@ -129,3 +195,23 @@ A norma é uma imposição legal.
   - éditos
   - costumes
   - jurisprudência
+
+
+## Direito Arcaico
+### Direito primitivo?
+
+1. Provas
+- vestígios arqueológics
+- métodos comparados
+
+2. Características
+- não escrito (oralidade)
+- numerosos
+- religioso
+- interesse de uma coletividade
+- tendia à conciliação
+
+3. Fontes
+- regras orais
+- precedentes
+- provérbios (sabedoria popular)
