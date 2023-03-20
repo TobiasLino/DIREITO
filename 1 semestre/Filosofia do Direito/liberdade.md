@@ -1,0 +1,16 @@
+# Liberdade - Sartre
+- o homem, estando condenado a ser livre, é responsável pelo mundo e por si mesmo enquanto maneira de ser
+- a responsabilidade do Para-si é opressiva, já que é aquele pelo qual se faz com que haja um mundo
+- é insensato pensar em queixar-se, pois **nada alheio** determinou aquilo que sentimos, vivemos ou somos
+  - não é resignação, mas consequência lógica
+- aquilo que me acontece é meu
+- não há situação inumana
+- não há acidentes em uma vidade
+- O sofrimento foi **escolhido**
+- cada pessoa é uma escolha absoluta de si a partir de um mundo de conhecimentos e técnicas que tal escolha assume e ilumina
+- cada pessoa é um absoluto desfrutando de uma data absoluta e totalmente impensável em outra data
+- não há vítimas inocentes; cada qual tem a guerra que merece
+- carrego o peso do mundo totalmente só, sem que nada nem niguém possa aliviá-lo
+- escolho ter nascido
+- todos acontecimento no mundo só pode revelar-se como ocasião ou oportunidade
+- fugimos da angústia na má-fé
