@@ -74,7 +74,7 @@
 - nem mesmo os fatos são verdades
 - o que é certo pode se tornar errado, vai dependender da utilidade daquilo
 - o que é relativo **não** é absoluto
-  - a única coisa absoluta é que *tudo é relativo*
+  - a única verdade absoluta é que *tudo é relativo*
 - enquanto nossas opiniões não afetam o bem comum, não há problema que cada um tenha sua opinião
 - a partir do momento que minhas opiniões, ou a divergência delas, afeta a minha convivência com a sociedade -> nasce a figura do **sábio**
 
@@ -97,3 +97,40 @@ O *sábio* vai tentar convencer o que é o *útil mais útil*.
 > - desigualdade social ajuda muito na manutenção de determinada percepção sobre um determinado crime
 >   - pobre tem mais chance de ser criminoso
 >   - rico não tem
+
+## Sócrates
+- Protágoras tá errado
+- existe a verdade absoluta
+  - discussão sobre quem é o homem
+  - o homem é a sua alma
+  - não tem preocupação sobre juízo final
+  - alma é a grande energia da vida
+  - se somos nossa alma, nossa consciência já é toda formada com as coisas perfeitas
+- "agir moralmente é agir racionalmente"
+
+
+### Virtude
+- uma vida virtuosa se dá, obviamente pela razão, pela inteligência, ciência, conhecimento.
+
+### Vício
+- uma vida não racional
+- movida pelas paixões
+- se dá pela ignorância
+
+### Liberdade
+- ser livre é escolher pela virtude
+- escolher pelo mal é escolher pelo vício que é uma vida de ignorância
+- liberdade só existe quando escolho pelo bem
+
+## Platão
+- a alma vislumbrou a perfeição no "mundo das ideias"
+- o grande mal da humanidade é acreditar que as sombras da caverna são a realidade
+  - nós acreditamos em tudo que estamos vendo, mas o real é apenas visto por parte da razão
+  - tudo é ilusão, nos enganamos pois somos movidos pelas paixões, pelo corpo
+  - a felicidade poderá ser contemplada, em parte, racionalmente
+- razão é o centro da teoria de Sócrates e depois de Platão
+
+### Mito da caverna
+ - quando a pessoa sair das sombras, ela vai se cegar de tamanha luz que é a verdade
+ - virtude é viver na luz
+ - vício é escuridão
