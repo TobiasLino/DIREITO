@@ -23,3 +23,4 @@
 - Claúdio Gastão da Rosa Filho - advogado do réu e um dos mais caros de Santa Catarina.
 
 ### identificação do conflito ético
+O conflito se mostra na ausência dos valores, principalmente empatia e solidariedade com a vítima e a falta de justiça. O mais evidente se mostra nas ações e falas do advogado de defesa, do promotor e do juíz.
