@@ -1,0 +1,31 @@
+# Justiça e direito em Nietzsche
+- conheceu a origem do direito, anteior à cisão entre natural e positivo
+  - direito em transição, dividido entre jusnaturalistas e juspositivistas
+- desconstrução dos 4 pressupostos do direito natural
+  - universalidade
+  - imutabilidade
+  - atemporalidade
+  - não postulação humana
+- introduz o direito natural mitológico da Antígona de Sófocles
+  - contraposição entre direito natural (Antíogna) e positivo (Creonte)
+  - jusnaturalismo místico - sobrepões os costumes sagrados às normas
+  - juspositivismo - sucumbe toda lei natural ao poder ordenador da tradição
+- normas e valores existentes são todos frutos da *práxis* humana
+- direito natural não pode ser associado à natureza, nem ao divino, nem à razão
+- Segundo Nietzsche -> direito surge na pré-história, inviabilizando a existência de um direito atemporal, anterior e independente do indivíduo
+- sentimento de troca - forma mais rudimentar de direito pessoal
+  - cada coisa tem seu preço, tudo pode ser pago
+- relações contratuais são consideradas precedentes a qualquer organizção social
+- o homem valora, mede e estipula valor
+  - diferente dos animais
+- na troca - caráter inicial da justiça, marcado pelo obtenção recíproca do estimado
+- a juridicade de uma ação dependerá das forças, impulsos e vontades de poder que atuem sobre ela no momento da ação
+- rejeita veementemente a instauração da justiça sobre a terra; sugerindo a necessidade da injustiça como marca indelével da vida
+  - na relação credor-devedor o rompimento do contrato é reparado sob a máxima de que "o criminoso merece ser punido"
+    - devedor adquire a consciência culpada
+- rejeita a origem da justiça no ressentimento
+  - na justiça, o olho é treinado para uma avaliação sempre mais impessoal do ato, até mesmo o olhar do prejudicado
+  - o homem ressentido pensará tanto o direito quanto a justiça a partir de si, sem levar em conta as razões do suposto causador do dano
+- justiça e direito se diferem do instinto reativo - pelo caráter intrínseco da impessoalidade e neutralidade valorativa a buscar o meio-termo
+- justiça e direito e relação credor-devedor - pacto de não produzir nem sofrer danos
+- "o direito representa a luta contra os sentimento reativos, para conter os desregramentos do pathos reativo e impor um acordo"
