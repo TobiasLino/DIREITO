@@ -29,3 +29,13 @@
 - justiça e direito se diferem do instinto reativo - pelo caráter intrínseco da impessoalidade e neutralidade valorativa a buscar o meio-termo
 - justiça e direito e relação credor-devedor - pacto de não produzir nem sofrer danos
 - "o direito representa a luta contra os sentimento reativos, para conter os desregramentos do pathos reativo e impor um acordo"
+- direito penal tem essa função
+  - No acordo entre credor-devedor, há, legalmente, no caso de inadimplência, o castigo como cálculo reparador
+- ainda que respaldade pela ideia de justiça, esse castigo deve ser equipolente ao dano sofrido
+- o direito e a justiça defendem e/ou julgam o traidor e traído sempre de modo impessoal
+- quanto menor for o poder de uma comunidade, maior será a importância que a mesma atribuirá às violações das regras
+  - em uma comunidade enfraquecida social e juridicamente, a revolta às leis pode significar o solapar de suas estruturas
+  - caso ocorra em uma comunidade solidificada, os desvios passam a não mais oferecer o mesmo perigo, pois tai ações poderão ser ressarcidas por meio da pena ao infrator
+- tanto o direito quanto a justiça passaram a diminuir seus critérios jurídico-penais
+- MELO - "o direito - e por extensão a justiça -, na medidade em que repousa sobre contratos entre iguais, dura tanto quanto a potência dos contraentes é igual ou comparável" -> na guerra, com o enfraquecimento da comunidade, há o aumento dos graus de juridicidade em suas ações
+- Nietzsche não ofere uma resposta do que seja o justo, mas mantém o homem na incomensurabilidade trágica
