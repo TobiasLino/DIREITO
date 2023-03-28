@@ -16,12 +16,12 @@
 - governo absolutista - Concentra todos os poderes num só orgão - tem raízes nas monarquias de direito divino
 
 ## Classificação Essencial de Aristóteles
-#### formas normais ou puras -> têm por objeto o bem da comunidade
+### formas normais ou puras -> têm por objeto o bem da comunidade
 Classificações:
 - Monarquia - governo de uma só pessoa
 - Aristocracia - governo de uma classe restrita
 - Democracia - governo de todos os cidadãos
-#### formas anormais ou degeneradas -> visam somente vantagens para os governantes
+### formas anormais ou degeneradas -> visam somente vantagens para os governantes
 Classificações:
 - Tirania
 - Oligarquia
@@ -33,9 +33,14 @@ Classificações:
   - se só buscam satisfazer seus próprios interesses é anormal
 - Montesquieu:
   - moarquia -> Honra
-  - aristocracia -> Moderação
-  - democracia -> Virtude
-  - se não haver o princípio básico ela cai na forma anormal correspondente
+    - aristocracia -> Moderação
+    - democracia -> Virtude
+    - se não haver o princípio básico ela cai na forma anormal correspondente
+  - republicano - poder exeercido pela Assembléia de cidadãos
+  - despótico - rei ou chefe de governo exerce o poder com seu livre arbítrio
+- Hans Kelse
+  - autocracia - o indivíduo não participa do governo, somente obedece
+  - democracia - cidadãos que participam da criação da orgem jurídica vigente
 
 
 - Fenelon -> a corrupção pode ser idêntica em todas as formas de governo; o principal não é o regime em si, mas a virtude na execução dele.
@@ -68,18 +73,44 @@ Classificações:
 - absoluta -> todo poder se concentra no monarca
   - age por seu próprio e exclusivo arbítrio
   - origem divina do seu poder
+  - monarca é chefe de estado e governo
+    - detem plenos poderes - executivo, legislativo e judiciário
+    - Arábia Saudita, Catar e maior parte do Oriente Médio
+  - sucessão hereditária
+  - vitaliciedade
+> Vaticano:
+> - o Papa é eleito, não é hereditário pois não podem ter filhos
+> - possui poderes ilimitados
+
+
 - limitadas -> poder central se reparte admitindo órgãos autônomos de função paralela, ou se subemete às manifestações da soberania nacional
   - de estamentos -> Rei descentraliza funções que são delegados à Cortes ou órgãos semelhantes como desdobramento do poder real
   - constitucional -> o Rei só exerce o poder executivo, nos termos de uma Constituição
+    - responsabilidade política
+    - mandado pode ser vitalício ou valer por tempo determinado
+    - eletiva - um grupo determinado o escolhe (aristocracia)
   - parlamentar -. o Rei não exerce função de governo - *O Rei reina mas não governa* O poder é exercido por um Conselho de Ministros
     - ao Rei é atribuído um quarto poder -> Moderador - ascendência moral sobre o povo e os órgãos governamentais
+    - vitaliciedade
+    - irresponsabilidade política
+    - hereditariedade
+    - parlamento - escolhidos por eleição popular
 
 ### República
+- governo do povo - soberania emana do povo - governantes representam o povo
+- responsabilidade política do governante
+- eletividade
+- temporariedade - apenas para o Executivo
+- origem na Roma clássica, Senado
+- república relaciona coisa pública
+
+
 - aristocrática -> governo de uma classe privilegiada por direitos de nascimento ou de conquista
   - pode ser *direta ou indireta* conforme o poder é exercido pela classe ou por delegados eleitos.
   - Teóricamente, admiti-se a forma semidireta
 - democrática -> todo o poder emana do povo
   - direta -> governa a totalidade dos cidadãos, deliberando em assembléias populares
+    - não funciona
   - indireta ou representativa ->  conferir o poder do governo aos representantes ou delegados, por meio das eleições
     - Rui Barbosa ->  República não é coexistência de três poderes, mas a condição que, sobre existirem os três poderes constitucionais, o Legislativo, o Executivo e o Judiciário, os dois primeiros derivam, realmente, de eleição popular
   - semidireta -> restringe o poder da assembléia representativa, reservando-se ao pronunciamento direto da assembléia geral dos cidadãos os assuntos de maior importância, de ordem constitucinoal
@@ -108,3 +139,27 @@ Outros institutos
 - veto popular -> faculdade concedida ao povo de recusar uma lei emanada do Parlamento
 - recall -> tipicamente dos EUA, o povo recisa a decisão judicial e fazia prevalecer a lei declarada inconstitucional
   - princípio de que a vontade soberana do povo deve prevalecer, inclusive, sobre as decisões do judiciário
+
+
+# Notas da aula
+Formas de governo - maneira que o poder político se exterioriza, exerce sua atividade
+
+
+Formas destacadas: 
+- monarquia - titular ocupa um cargo hereditário
+- república - titular ocupa um cargo eletivo
+
+
+Diferenças
+- monarquia: Rei ou Monarca 
+  - irresponsabilidade política - não responde politicamente pelo parlamento
+  - hereditariedade - descendentes
+  - vitaliciedade - até o fim da vida
+
+
+| monarquia          | República |
+|--------------------| --- |
+| hereditária        | eletiva |
+ | vitalícia          | periódica |
+ | irresponsabilidade | prestação de contas |
+ | Não representativa | Representatividade |
