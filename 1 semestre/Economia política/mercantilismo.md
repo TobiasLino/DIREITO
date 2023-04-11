@@ -1,3 +1,14 @@
+# Mercantilismo
+
+## Tabela de conteúdos
+1. [Mercantilismo em *História do Pensamento Econômico* de Oliveira e Gennari](#oliveiraEGennari)
+2. [A Escola mercantilista em História do Pensamento Econômico de Stanley Brue](#stanleyBrue)
+3. [Mercantilistmo em Mercantilismo e transição de Francisco Falcon](#franciscoFalcon)
+
+<div id="oliveiraEGennari"></div>
+
+---
+
 # Mercantilismo em *História do Pensamento Econômico* de Oliveira e Gennari
 
 ## O Estado moderno, a análise econômica e o mercantilismo
@@ -189,6 +200,7 @@ Em suma, mercantilismo:
 
 
 ---
+<div id="stanleyBrue"></div>
 
 # A Escola mercantilista em *História do Pensamento Econômico* de Stanley Brue
 
@@ -210,6 +222,8 @@ Em suma, mercantilismo:
 #### As visões mercantilistas de Petty
 #### Petty como um precursor da economia clássica
 
+---
+<div id="franciscoFalcon"></div>
 
 # Mercantilistmo em *Mercantilismo e transição* de Francisco Falcon
 ## Conclusão
