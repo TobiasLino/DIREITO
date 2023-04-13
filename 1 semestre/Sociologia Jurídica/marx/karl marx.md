@@ -116,7 +116,57 @@ Modos de produção:
   - M = D(equivalente geral) = M
 - não tem como objetiv o lucro
 
-### Processo Capitalista
+### Processo Capitalista -> lucro
 - D = M = D -> não tem vantagem
 - D = M = D+ -> lucro
 - D = M = D+ = M = D++ = M = D+++...
+
+
+- precisa de uma constante taxa de lucro, caso contrário o sistema entra em crise
+- crise é um fenômeno cíclico no capitalismo
+- o processo capitalista começa com Dinheiro
+
+## De onde vem o dinheiro para o início do capitalismo?
+- comércio -> troca de mercadoria, conquista, pirataria, saque, fraude ...
+  - exploração das colonias
+- origem do dinheiro é a origem da violência, da escravidão
+
+
+
+## Processo de transformação capitalista
+- começa com o dinheiro
+- compra a matéria prima, as máquinas e a força de trabalho
+- produz a mercadoria e;
+- termina com D+
+
+
+Para Marx
+- força de trabalho se torna mercadoria. Antes, o trabalhhador era dono de sua força de trabalho: camponeses e artesãos
+  - camponeses > expulsos do campo
+  - artesãos > destituídos de suas ferramentas
+
+
+- modelo econômico que concentra a riqueza na mão de poucas pessoas
+
+
+### A força de trabalho como mercadoria
+Qual o valor desta mercadoria?
+- determinado pelo tempo de trabalho necessário para que ela exista
+- ora, a força de trabalho é uma mercadoria
+- logo, o valor da froça de trabalho é determinado pelos meios necessários para que ela exista
+- ora, a força de trabalho não existe desvinculada de seu dono, o trabalhador
+- logo o valor é determinado pelos meios necessários para que o trabalhador exista
+- ora, um dia o trabalhador vai morrer
+- logo, o valor da força de trabalho é determinado pelos meios necessários à subsistência do trabalhador e sua reprodução
+
+
+O valor do salário
+- o homem consome uma certa quantiddade de mercadorias que pode ser medida em tempo de trabalho
+- o valor da força de trabalho é igual ao valor dos meios de subsistência, principalmente gêneros de primeira necessidade, indispensáveis à reprodução da classe operária
+- esse valor é pago no salário, que deve dar apenas para o estritamente necessário ao futuro trabalhador
+
+
+- circulo vicioso -> o assalariado vende a força de trabalho para sobreviver e o capitalista lhe compra para enriquecer
+- a razão desse circulo vicioso está no processo de **MAIS VALIA**
+
+> Após a crise de 1929: todas as necessidades básicas são destinadas ao Estado, deixando de ser responsabilidade da empresa
