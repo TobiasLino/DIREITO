@@ -1,7 +1,8 @@
 ### Problema
-- como se deu a influência das teorias antiracistas nos contextos jurídicos do país?
+- como se deu a influência das teorias antiracistas nos contextos jurídicos do país no período determinado?
 - Elas foram efetivas?
 - Sua aplicação é a curto ou longo prazo?
+- apagamento da raça no aparato legislativo
 
 
 #### Objetivo
