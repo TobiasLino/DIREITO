@@ -207,23 +207,67 @@ Em suma, mercantilismo:
 - Aproximadamente entre 1500 até 1776
 
 ## Visão Geral do Mercantilismo
-### O cenário histórico da escola mercantilista
 ### Principais dogmas da escola mercantilista
+- ouro e prata eram a forma mais desejável de riqueza, alguns pensariam que esta era a única forma de riqueza. 
+  - Aumento de exportações era bons para gerar pagamentos em moeda forte
+- nacionalismo - acumular riqueza à custa dos outros.
+  - quantidade fixa de recursos, de modo que para o país aumentar sua concentração, outro precisava diminuir
+  - levou ao militarismo
+- importação isenta de taxas - MP não produzida internamente
+  - proteção para bens internos e restrição sobre importações de MP
+- Colonização e monopolização do comércio colonial
+  - colônias exportavam MP de baixo custo e importavam bens manufaturados
+- oposição a pedágios, impostos e outras restrições internas sobre o transporte de bens
+  - poderiam estrangular as empresas e elevar o preço das exportações
+  - preferiam concessões de monopólio e privilégios comerciais exclusivos do que o livre-comércio
+- forte controle estatal na economia
+  - governo concedia privilégios de monopólio
+  - restringia a livre entrada no comércio interno - limitar a concorrência
+  - subsídios para agricultura, mineração e indústria
+  - regulação dos processos de produção e qualidade
+    - evitar má reputação, dificultando a exportação
+- população numerosa e trabalhadora
+  - abundância de soldados
+  - alta da MP, portanto, salários baixos
+    - preços menores nas exportações
+    - reduz a ociosidade e maior participação na força de trabalho
+    - *** morte ou castigos severos para quem não trabalhasse, incluindo mendigos com mais de 14 anos
+    - trabalho infantil
+
 ### Quem a escola mercantilista beneficiou ou procurou beneficiar?
+- capitalistas mercadores
+- reis
+- funcionários do governo
+
+
 ## O mercantilismo e a oferta de mão-de-obra
 ### Como a escola mercantilista foi válida, útil ou correta em sua época?
 ### Quais dogmas da escola mercantilista tornaram-se contribuições duradouras?
-## Thomas Mun
-## O mercantilismo tardio
-### Gerard Malynes
-### CHarles D'avenant
-### Jean Baptiste Colbert
-### Sir William Petty
-#### As visões mercantilistas de Petty
-#### Petty como um precursor da economia clássica
 
 ---
 <div id="franciscoFalcon"></div>
 
 # Mercantilistmo em *Mercantilismo e transição* de Francisco Falcon
 ## Conclusão
+- teoria monetária e da balança comercial
+- produção de mercadorias - *oferta*
+  - custos
+    - lentidão do avanço tecnológico, muito arriscado contar com ele
+    - mudança lenta na organização dos processos de produção - especialização só em pequena escala podem reduzir os custos
+    - remuneração deve ser mais baixa possível, deve existir oferta de mão-de-obra, garantida pelo Estado
+  - natureza - cálculos sobre o caráter limitado, concorrência e o movimento dos preços
+    - limitar o mercado para privilegiar a qualidade sobre a quantidade
+    - impede o crescimento excessivo da produção - medo de estoque invendável
+    - concorrência - existência ou não de um monopólio, leva em consideração transportes, barreiras fiscais e alfandegárias
+    - preços mais altos possíveis
+  - lucro
+- Consumo de mercadorias - *demanda*
+  - baixo poder aquisitivo da maioria da população
+  - mercado consumidor está limitado pela própria estrutura social, mais ricos
+  - novos mercados - conquista fora do próprio país ou expulsão de competidores estrangeiros
+- Inflação (alta dos preços)
+  - agravar as práticas metalistas, que se subordinam à indústria e o próprio fiscalismo
+- Deflação (baixa)
+  - redução na capacidade de importar
+  - fomento às manufaturas nacionais, substituição de importações
+  - companhias privilegiadas - recebem leis regulamentadoras da produção, bonificações, leis protecionistas, etc.
