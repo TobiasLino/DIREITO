@@ -123,3 +123,13 @@ Para Foucault, o Estado como garantidor da 'proteção da raça' vem da metade d
   - "[...] trabalho não pago, transformado em capital, e o trabalho adicional, requerido para pôr em movimento o capital adicional" (p. 697).
 
 ### LIMA, 2010
+
+### CARNEIRO, 2019
+- Como dimensão crucial deste processo, o capital a juros tem a sua remuneração estabelecida num processo político-jurídico, desconectado do processo produtivo. Há assim, um elemento crucial da formação da taxa de juros que deve ser resgatado e que se refere ao fato dela ser determinada na esfera da circulação do capital e não da produção, ou seja, a taxa de juros se forma de maneira independente da taxa de lucro
+- Para Marx, com o desenvolvimento capitalista, o capital a juros converte-se na forma geral do capital.
+- Um exemplo clássico desta dissociação foi elaborado por Hilferding (1985 [1910]), com o conceito de ganho de fundador. Assim, por exemplo, uma emissão de ações para ampliar o capital em função de uma empresa teria um valor de face correspondente ao adiantamento de capital. Mas, seu valor de mercado, ao qual poderia ser transacionado, seria distinto, correspondendo à capitalização dos rendimentos esperados. Esses rendimentos, representam um certo retorno ou rentabilidade de capital adiantado, e o primeiro só é adiantado porque dá direito a este fluxo de rendimentos. Aí vem a capitalização, que ocorre a uma outra taxa, a de juros, e gera um valor para o capital distinto do valor inicial ou de face.
+ Deduz-se da passagem acima, a forma mais abstrata do capital, o fictício, que corresponde à generalização do conceito de ganho de fundador de Hilferding.
+- Assim, o capital fictício possui uma dinâmica própria que nasce da capitalização e se alimenta dos mercados secundários.
+
+Especulação para Keynes
+- O raciocínio inicial de Keynes, na determinação da taxa de juros, considera uma oferta fixa de moeda, a distribuição da demanda entre transação + precaução e a demanda especulativa e relacionada a esta última, uma curva de preferência pela liquidez. Nessas circunstâncias, deslocamentos desta curva fazem variar a taxa de juros. Claro que há alterações exógenas (via Banco Central) e endógenas (via bancos) da oferta de moeda, mas raciocinar com a quantidade de moeda fixa, é importante para assinalar a relevância que tem na determinação das taxas de juros, a forma pela qual os agentes privados decidem manter a sua riqueza.

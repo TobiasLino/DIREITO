@@ -57,6 +57,7 @@ Tributação na prática
 - BALIBAR, Étienne; WALLERSTEIN, Immanuel. Raça, nação, classe: as identidades ambíguas. Tradução de Wanda Caldeira Brant. 1. ed. São Paulo: Boitempo, 2021.
 - BOURDIEU, Pierre. The forms of capital. In: RICHARDSON, J. G. (Ed.). Handbook of Theory and Research for the Sociology of Education. New York: Greenwood Press, 1985. p. 241-258.
 - BRASIL. [Constituição (1988)]. Constituição da República Federativa do Brasil. Brasília, DF: Senado, 2016. Disponível em: https://www2.senado.leg.br/bdsf/bitstream/handle/id/518231/CF88_Livro_EC91_2016.pdf. Acesso em 06 maio 2023.
+- CARNEIRO, R. Acumulação fictícia, especulação e instabilidade financeira. Parte I: uma reflexão sobre a financeirização a partir de Marx, Keynes e Minsky. Economia e Sociedade, v. 28, n. 2, p. 293–312, ago. 2019.
 - CRISTALDO, R. C.; SENNA, J. R. DE .; MATOS, L. S.. As narrativas fundamentais do mito do desenvolvimento econômico e o neodesenvolvimentismo brasileiro. Revista de Administração Pública, v. 52, n. 3, p. 527–553, maio 2018. Disponível em: https://www.scielo.br/j/rap/a/syT48VXnGsPLH5zcp7fCzbv/?lang=pt#. Acesso em: 05 maio 2023.
 - DOWBOR, Ladislau. Desigualdade. Outras Palavras, São Paulo, 18 out. 2021. Disponível em: https://outraspalavras.net/crise-brasileira/ldowbor-desigualdade/. Acesso em: 06 maio 2023.
 - FERNANDES, Daniela. 4 dados que mostram por que Brasil é um dos países mais desiguais do mundo, segundo relatório. BBC News Brasil, Paris, 07 dez. 2021. Disponível em: https://www.bbc.com/portuguese/brasil-59557761. Acesso em 06 maio 2023.
@@ -66,6 +67,7 @@ Tributação na prática
 - KEYNES, John Maynard. Teoria geral do emprego, do juro e da moeda. Tradução de Manuel Resende. São Paulo: Saraiva, 2012.
 - LIMA, Rômulo André. A lei geral de acumulação capitalista e as crises cíclicas. Leituras de Economia Política, Campinas, (16): 87-110, jun. 2010. Disponível em: https://www.eco.unicamp.br/images/arquivos/artigos/3127/07%20ROMULO.pdf. Acesso em: 06 maio 2023.
 - MARX, Karl. O capital: crítica da economia política: livro I: o processo de produção do capital. Tradução de Rubens Enderle. 2. ed. São Paulo: Boitempo, 2017.
+- RECEITA FEDERAL (Brasil). Análise da Arrecadação das Receitas Federais - Dezembro de 2022. Brasília, 2022. Relatório.
 - RIVERO, Oswaldo. The myth of development: non-viable economies and the crisis of civilization. New York: Zed Book, 2010
 
 
