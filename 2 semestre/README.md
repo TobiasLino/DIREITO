@@ -1,11 +1,11 @@
 # HORÁRIO
 
-| Horário       | Segunda | Terça | Quarta | Quinta | Sexta |
-|---------------|---------|-------|--------|--------|-------|
-| 19:00 - 19:50 |         |       |        |        |       |
-| 19:50 - 20:40 |         |       |        |        |       |
-| 21:00 - 21:50 |         |       |        |        |       |
-| 21:50 - 22:40 |         |       |        |        |       |
+| Horário       | Segunda            | Terça           | Quarta                   | Quinta          | Sexta                   |
+|---------------|--------------------|-----------------|--------------------------|-----------------|-------------------------|
+| 19:00 - 19:50 | Políticas públicas | Direito Penal I | Direito Constitucional I | Direito Civil I | Teoria Geral do Direito |
+| 19:50 - 20:40 | Políticas públicas | Direito Penal I | Direito Constitucional I | Direito Civil I | Teoria Geral do Direito |
+| 21:00 - 21:50 | Ciência Política   | Direito Penal I | Direito Constitucional I | Direito Civil I | Teoria Geral do Direito |
+| 21:50 - 22:40 | Ciência Política   | Direito Penal I | Direito Constitucional I | Direito Civil I | Teoria Geral do Direito |
 
 # BIBLIOGRAFIA
 
@@ -14,74 +14,8 @@
 | Ciência política         | ARISTÓTELES. A Política. 2.ed. São Paulo: Martins Fontes, 2002.<br> BOBBIO, Norberto. A Teoria das Formas de Governo. 2.ed. São Paulo: Universidade de Brasília, 1985.<br> DALLARI, Dalmo de Abreu. Elementos de Teoria Geral do Estado. 25.ed. São Paulo: Saraiva, 2006.<br> ROUSSEAU, JeanJaques. O Contrato Social. São Paulo: Cultrix, 1965.<br> SILVEIRA, P. F. Freios e contrapesos. Belo Horizonte: Del Rey, 1999.<br> SPINOZA, B. Tratado Político. São Paulo: Ícone, 1994.<br> WEFFORT, F. (org.) Clássicos da Política. São Paulo: Ática, 2005.<br> DUPAS, Gilberto. Ética e poder na sociedade da informação. 2.ed. São Paulo: Edunesp, 2001.<br> HOBBES, Thomas. Leviatã. São Paulo: Nova Cultural, 2004.<br> LOCKE, John. Segundo Tratado sobre o Governo. São Paulo: 2006.<br> MAQUIAVEL, Nicolau. O Príncípe. 12.ed. São Paulo: Humus, 1999.                                                                                                                                                                                        |
 | Direito Civil I          | DINIZ, Maria Helena. Curso de Direito Civil Brasileiro. V.1, São Paulo: Saraiva, Ed. 28, 2011.<br>GONÇALVES, Carlos Roberto. Direito Civil. São Paulo: Saraiva, Ed. 9, 2011.<br>AZEVEDO, Antônio Junqueira de. Negócio Jurídico: Existência. Validade Eficácia. São Paulo: Saraiva, Ed. 4, 2002.<br>GAGLIANO, Pablo Stolze. PAMPLONA F. Novo Curso de Direito Civil – Parte Geral. Saraiva. Ed. 8, 2006.<br>NADER, Paulo. Curso de Direito Civil – Parte Geral. Forense, 2008.<br>OLIVEIRA, J. M. Leoni Lopes de. Direito Civil. V. II. Rio de Janeiro: Lumen Juris, 2002.                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Direito constitucional I | MORAES, Alexandre. Direito Constitucional: Ed. Atlas. Ed. 27ª, 2011.<br>MELDES, Gilmar et al. Curso de direito Constitucional. Ed. Saraiva – Ed. 2ª ed. 2008.<br>DA SILVA, José Afonso. Curso de Direito Constitucional (positivo Ed. Malheiro – Ed.31ª -2008.<br>DAVID, Luiz Alberto David de Araujo e Vidal Serrano: Curso de Direito Constitucional Ed. Saraiva. Ed. 12ª. 2008.<br>NOVELINO, Marcelo. Direito Constitucional. Ed. Método – Ed. 3ª, 2009.<br>TEMER, Michel. Elementos de Direito Const. Ed. Maldeiros – Ed. 22ª, 2008.<br>BOLAVIDES, Paulo. Curso de Direito Constitucional. Ed. Malheiros. Ed. 16ª, 2005.                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Direito Penal I          | CAPEZ, Fernando. Curso de Direito Penal. Parte Geral. Ed. Saraiva, 2009.<br>NUCCI, Guilherme de Souza. Manual de Direito Penal. Parte Geral e Especial. Ed. RT, 2009.<br>BITENCOURT, Cezar Roberto. Manual de Direito Penal. Parte Geral. Ed. Saraiva, 2000<br>HUNGRIA, Nelson. Comentários ao Código Penal. Ed. Forense, 1981.<br>LYRA, Roberto. Comentários ao Código Penal. Ed. Forense, 1958.<br>FRAGOSO, Claudio Heleno. Lições de Direito Penal. Parte Geral. Ed. Forense, 1986.<br>JESUS, Damásio Evangelista de. Direito Penal. Parte Geral. Ed. Saraiva, 2011.<br>PASSETTI, Edson (Coord.) et al. Curso livre de abolicionismo penal. Rio de Janeiro, Revan, 2004.                                                                                                                                                                                                                                                                                                                                                                        |
+| Direito Penal I          | CAPEZ, Fernando. Curso de Direito Penal. Parte Geral. Ed. Saraiva, 2009.<br>NUCCI, Guilherme de Souza. Manual de Direito Penal. Parte Geral e Especial. Ed. RT, 2009.<br>BITENCOURT, Cezar Roberto. Manual de Direito Penal. Parte Geral. Ed. Saraiva, 2000<br><br>HUNGRIA, Nelson. Comentários ao Código Penal. Ed. Forense, 1981.<br>LYRA, Roberto. Comentários ao Código Penal. Ed. Forense, 1958.<br>FRAGOSO, Claudio Heleno. Lições de Direito Penal. Parte Geral. Ed. Forense, 1986.<br>JESUS, Damásio Evangelista de. Direito Penal. Parte Geral. Ed. Saraiva, 2011.<br>PASSETTI, Edson (Coord.) et al. Curso livre de abolicionismo penal. Rio de Janeiro, Revan, 2004.                                                                                                                                                                                                                                                                                                                                                                    |
 | Políticas públicas       | FARAH, Elias. Cidadania. São Paulo. Juarez de Oliveira. 2001.<br>MORAES, Alexandre. Direitos Humanos Fundamentais: Teoria Geral, comentários aos Arts. 1º ao 5º da Constituição da República Federativa do Brasil, Doutrina e Jurisprudência. 3 ed., São Paulo. Atlas, 2000.<br>MAZZILI, Hugo Nigro. A Defesa dos Interesses Difusos em Juízo. Meio Ambiente, Consumidor, Patrimônio Cultural, Patrimônio, Público e outros interesses. 23. ed. São Paulo:Saraiva, 2010.<br>FIORILLO, Celso Antônio Pacheco. Princípios do Processo Ambiental. São Paulo: Saraiva, 2004.<br>MAGALHÃES, Juraci Perez. A evolução do Direito Ambiental no Brasil. São Paulo, 1998.<br>MANCUSO, Rodolfo de Camargo. Ação Civil Pública em defesa do meio ambiente, do patrimônio cultural e dos consumidores. (Lei nº7347/85 e legislação complementar). 8 ed., São Paulo: Revista dos Tribunais, 2002.                                                                                                                                                               |
 | Teoria geral do direito  | BETIOLI, Antônio Bento. Introdução ao Direito: Lições de Propedêutica Jurídica Tridimensional. 9.ed. São Paulo: Letras & Letras, 1989.<br>DINIZ, Maria Helena. Compêndio de Introdução à Ciência do Direito. 17.ed. São Paulo: Saraiva, 2005.<br>MONTORO, André Franco. A introdução à ciência do Direito. 20.ed. São Paulo: Revista dos Tribunais, 1991.<br>REALE, Miguel. Lições Preliminares de Direito. 27.ed. São Paulo: Saraiva, 2005.<br>RIZZATO, Luiz Antônio Nunes. Manual de Introdução ao Estudo do Direito. São Paulo: Saraiva, 2005.<br>TELLES JR, Goffredo. Iniciação na ciência do Direito. 2.ed., São Paulo, Saraiva, 2002.<br>______ Folha Dobrada: lembrança de um estudante. 2 ed., Rio de Janeiro: Nova Fronteira, 2004.<br>BRASIL, Constituição Federal de 1998 e emendas. 44 ed., São Paulo, Saraiva, 2010.<br>HOBSBAWM, Eric. A era dos extremos: breve história do século XX. São Paulo: Cia das Letras, 1998.<br>LOPES, José Reinaldo de Lima. O Direito na História: Lições Introdutórias. São Paulo: Max Limonad, 2000. |
 
 ---
-
-## Bibliografia por extenso
-
----
-
-Ciência política
-- ARISTÓTELES. A Política. 2.ed. São Paulo: Martins Fontes, 2002. 
-- BOBBIO, Norberto. A Teoria das Formas de Governo. 2.ed. São Paulo: Universidade de Brasília, 1985. 
-- DALLARI, Dalmo de Abreu. Elementos de Teoria Geral do Estado. 25.ed. São Paulo: Saraiva, 2006.	
-- ROUSSEAU, Jean-Jaques. O Contrato Social. São Paulo: Cultrix, 1965. 
-- SILVEIRA, P. F. Freios e contrapesos. Belo Horizonte: Del Rey, 1999. 
-- SPINOZA, B. Tratado Político. São Paulo: Ícone, 1994. 
-- WEFFORT, F. (org.) Clássicos da Política. São Paulo: Ática, 2005. 
-- DUPAS, Gilberto. Ética e poder na sociedade da informação. 2.ed. São Paulo: Edunesp, 2001. 
-- HOBBES, Thomas. Leviatã. São Paulo: Nova Cultural, 2004. 
-- LOCKE, John. Segundo Tratado sobre o Governo. São Paulo: 2006. 
-- MAQUIAVEL, Nicolau. O Príncípe. 12.ed. São Paulo: Humus, 1999.
-
----
-Direito Civil I
-- DINIZ, Maria Helena. Curso de Direito Civil Brasileiro. V.1, São Paulo: Saraiva, Ed. 28, 2011. 
-- GONÇALVES, Carlos Roberto. Direito Civil. São Paulo: Saraiva, Ed. 9, 2011. 
-- AZEVEDO, Antônio Junqueira de. Negócio Jurídico: Existência. Validade Eficácia. São Paulo: Saraiva, Ed. 4, 2002.	
-- GAGLIANO, Pablo Stolze. PAMPLONA F. Novo Curso de Direito Civil – Parte Geral. Saraiva. Ed. 8, 2006. 
-- NADER, Paulo. Curso de Direito Civil – Parte Geral. Forense, 2008. 
-- OLIVEIRA, J. M. Leoni Lopes de. Direito Civil. V. II. Rio de Janeiro: Lumen Juris, 2002.
----
-Direito constitucional I
-- MORAES, Alexandre. Direito Constitucional: Ed. Atlas. Ed. 27ª, 2011. 
-- MELDES, Gilmar et al. Curso de direito Constitucional. Ed. Saraiva – Ed. 2ª ed. 2008. 
-- DA SILVA, José Afonso. Curso de Direito Constitucional (positivo Ed. Malheiro – Ed.31ª -2008.	
-- DAVID, Luiz Alberto David de Araujo e Vidal Serrano: Curso de Direito Constitucional Ed. Saraiva. Ed. 12ª. 2008. 
-- NOVELINO, Marcelo. Direito Constitucional. Ed. Método – Ed. 3ª, 2009. 
-- TEMER, Michel. Elementos de Direito Const. Ed. Maldeiros – Ed. 22ª, 2008. 
-- BOLAVIDES, Paulo. Curso de Direito Constitucional. Ed. Malheiros. Ed. 16ª, 2005.
----
-Direito Penal I
-- CAPEZ, Fernando. Curso de Direito Penal. Parte Geral. Ed. Saraiva, 2009. 
-- NUCCI, Guilherme de Souza. Manual de Direito Penal. Parte Geral e Especial. Ed. RT, 2009. 
-- BITENCOURT, Cezar Roberto. Manual de Direito Penal. Parte Geral. Ed. Saraiva, 2000	
-- HUNGRIA, Nelson. Comentários ao Código Penal. Ed. Forense, 1981. 
-- LYRA, Roberto. Comentários ao Código Penal. Ed. Forense, 1958. 
-- FRAGOSO, Claudio Heleno. Lições de Direito Penal. Parte Geral. Ed. Forense, 1986. 
-- JESUS, Damásio Evangelista de. Direito Penal. Parte Geral. Ed. Saraiva, 2011. 
-- PASSETTI, Edson (Coord.) et al. Curso livre de abolicionismo penal. Rio de Janeiro, Revan, 2004.
----
-Políticas públicas
-- FARAH, Elias. Cidadania. São Paulo. Juarez de Oliveira. 2001. 
-- MORAES, Alexandre. Direitos Humanos Fundamentais: Teoria Geral, comentários aos Arts. 1º ao 5º da Constituição da República Federativa do Brasil, Doutrina e Jurisprudência. 3 ed., São Paulo. Atlas, 2000. 
-- MAZZILI, Hugo Nigro. A Defesa dos Interesses Difusos em Juízo. Meio Ambiente, Consumidor, Patrimônio Cultural, Patrimônio, Público e outros interesses. 23. ed. São Paulo:Saraiva, 2010.	
-- FIORILLO, Celso Antônio Pacheco. Princípios do Processo Ambiental. São Paulo: Saraiva, 2004. 
-- MAGALHÃES, Juraci Perez. A evolução do Direito Ambiental no Brasil. São Paulo, 1998. 
-- MANCUSO, Rodolfo de Camargo. Ação Civil Pública em defesa do meio ambiente, do patrimônio cultural e dos consumidores. (Lei nº7347/85 e legislação complementar). 8 ed., São Paulo: Revista dos Tribunais, 2002.
----
-Teoria geral do direito
-- BETIOLI, Antônio Bento. Introdução ao Direito: Lições de Propedêutica Jurídica Tridimensional. 9.ed. São Paulo: Letras & Letras, 1989. 
-- DINIZ, Maria Helena. Compêndio de Introdução à Ciência do Direito. 17.ed. São Paulo: Saraiva, 2005. 
-- MONTORO, André Franco. A introdução à ciência do Direito. 20.ed. São Paulo: Revista dos Tribunais, 1991.	
-- REALE, Miguel. Lições Preliminares de Direito. 27.ed. São Paulo: Saraiva, 2005. 
-- RIZZATO, Luiz Antônio Nunes. Manual de Introdução ao Estudo do Direito. São Paulo: Saraiva, 2005. 
-- TELLES JR, Goffredo. Iniciação na ciência do Direito. 2.ed., São Paulo, Saraiva, 2002. 
-- ______ Folha Dobrada: lembrança de um estudante. 2 ed., Rio de Janeiro: Nova Fronteira, 2004. 
-- BRASIL, Constituição Federal de 1998 e emendas. 44 ed., São Paulo, Saraiva, 2010. 
-- HOBSBAWM, Eric. A era dos extremos: breve história do século XX. São Paulo: Cia das Letras, 1998. 
-- LOPES, José Reinaldo de Lima. O Direito na História: Lições Introdutórias. São Paulo: Max Limonad, 2000.
-
