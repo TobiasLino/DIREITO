@@ -36,7 +36,7 @@ Complementar
 - Carlos Alexandre de Azevedo Campos. O Esado de coisas inconstitucional e o litígio estrutural. conjur
   
 
-### Análise da ADPF (arguição de descumprimento de preceito fundamental) 367 - STF - 2015
+### Análise da ADPF (arguição de descumprimento de preceito fundamental) 347 - STF - 2015
 - análise do voto:
   - resumo do caso, do fundamento para que o relator definisse a liminar
 - pede que o STF determine que todo preso, antes de ser conduzido para a cadeia, passe por um juiz em 24hrs - audiência de custódia

@@ -22,8 +22,8 @@
   - lei penal - punir condutas com penas privativas de liberdade ou restritivas de direito, deve estar contina numa lei penal
   - **Espécies** 
     - norma penal INCRIMINADORA (art. 121 em diante, parte especial) - aquela que é composta de 2 preceitos:
-      - primário - _preceptum junis_ - define o crime
-      - secundário - _sancsio junis_ - sanção penal, pena pelo descumprimento do comando legal
+      - primário - _preceptum iuris_ - define o crime
+      - secundário - _sancsio iuris_ - sanção penal, pena pelo descumprimento do comando legal
         - artigo 155 do CP - furto
           - primário - subtrair
           - secundário - pena
