@@ -23,6 +23,14 @@ GRAEBER, David; WENGROW, David. **O despertar de tudo: Uma nova história da hum
 
 **Resumo**:
 
+> wendats
+> - 'Não creio que exista algum povo no mundo mais livre do que eles' (p. 58)
+> - em vez de punir os culpados, insistiam que toda a linhagem ou clã do culpado pagasse uma indenização, para evitar vingança
+> - as autoridades não obrigavam ninguém, mas existia um certo desejo de glória que fazia os súditos à contribuir para o bem geral
+> - essa forma de justiça se revelou mais eficiente do que o da França
+> - não era economicamente igualitária, haviam ricos, mas essa riqueza não determinava transformar seu acesso à instrumentos de poder
+
+
 ## Descongelando a Era glacial
 
 **Citações**:
