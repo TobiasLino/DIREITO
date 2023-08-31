@@ -122,3 +122,70 @@ _**Segunda Constituição Brasileira em 1891**_
     - direitos trabalhistas, SUS, etc.
 - Constituição cidadã, que permitiu a participação dos cidadãos e dos movimentos sociais
 
+
+Constitucionalismo abusivo ou erosão constitucional
+- fenômeno mundial
+
+Conteúdo ou modalidade normas que compõem a constituição
+- **_Normas de estrutura ou organização_**
+  - visam estabelecer os pilares fundamentais da organização do Estado
+- **_Normas definidoras de direitos (fundamentais)_**
+- **_Normas principiológicas ou valorativas_**
+  - princípios e valores
+- **_Normas formalmente constitucionais (atípicas)_**
+  - exemplo art. 242 § 2
+
+
+## As concepções e sentidos das Constituições
+- **_Sociológico_** ou sociologia constitucional - a Constituição representa a "Soma dos reais fatoresde poder" (Ferdinand Lassalle)
+  - forças políticas, fiscais, econômicas, etc.
+  - se não é isso, ela passa a ser uma construção ilegítima, mera folha de papel
+- **_Político_** - exercício titularidade do poder - a Constituição é, nada mais, nada menos, que uma "decisão política fundamental" (Carl Schmidt)
+- **_Jurídico_** - Constituição é "o fundamento de validade de todo o ordenamento jurídico" ()
+  - positivismo normativo
+  - Hans Kelsen - teoria pura do direito
+
+| dever-ser            | ser           |
+|----------------------|---------------|
+| leis da razão humana | leis naturais |
+| Direito              | física        |
+| religião             |               |
+| moral                |               |
+
+
+# Tipologia ou espéies de Constituição
+## 4 modelos
+### Quanto à origem
+- **_outorgadas_** - não democráticas
+  - Constituição Imperial de 1824
+- **_promulgadas_** - democráticas
+  - Constituição Federal de 1988 (1/3 dos deputados eram da ditadura)
+
+> **_outorga_**, em Direito Constitucional, tem sentido de imposição
+
+### Quanto à forma
+- **_Escritas / dogmáticas_**
+  - toda a preceituação estruturadora do Estado estão contidas em um único documento
+  - origem romano-germânica, a primeira fonte é a Lei
+- **_Costumeiras / Consuetudinárias_** - não escritas, é aquela que se baseia nos usos e costumes contidos em textos esparsos que são reverenciados de geração em geração e mantidos pelos precedentes dos tribunais
+  - Direito anglo-saxão ou _common law_ - a Lei não é a primeira fonte de Direito, mas sim os precedentes - diferente de jurisprudência, que é o conjunto de julgados
+  - apenas Inglaterra, Nova Zelândia e Israel
+
+## Quanto à mutabilidade / alteração
+- **_Rígidas_** - são aquelas que prevêem o procedimento legislativo mais solene e mais dificultoso para a sua alteração ou mudança, diferente do procedimento legislativo comum de alteração das leis ordinárias
+  - para alterar, é preciso uma Emenda Constitucional aprovada
+    - antes, é preciso um PEC (projeto de emenda constitucional)
+  - **_CFRB/88 art. 60 - processo legislativo de aprovação de E.C._**
+- **_Flexíveis_** - são aquelas que **_NÃO_** prevêem o procedimento legislativo mais solene e mais dificultoso para a sua alteração ou mudança, diferente do procedimento legislativo comum de alteração das leis ordinárias
+  - equiparada, quanto à mudança, à uma lei
+- **_Semirrigidas_** - é aquela que exige, para modificação de parte de seus dispositivos, um processo especial e qualificado diferente do processo de modificação da legislação ordinária, não exigindo o mesmo procedimento especial e qualificado para alteração de demais matérias 
+  - Const de 1824 - art. 198 - tudo que não é constitucional pode ser alterado sem as formalidades definidas pelas legislaturas ordinárias
+
+## Quanto à extensão
+- **_sintéticas_** - são aquelas que somente tratam de matéria essencialmente ou substancialmente constitucional
+  - Constituição dos EUA
+- **_analíticas_** - são aquelas que tratam em seu texto matérias substancialmente constitucionais (forma de Estado, sistema de governo, direitos fundamentais, etc.) e também trazem para o seu texto matérias outras que não são substancialmente constitucionais (exemplos: art. 242 § 2º e 236).
+  - Constituição Brasileira
+
+Nenhuma lei é eterna, mas é possível criar mecanismos de mutação da Lei
+
