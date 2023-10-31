@@ -34,3 +34,16 @@ Relevância da questão Federal
 O papel do Senado Federal no controle de constitucionalidade - art. 52 X
 
 A medida cautelar -> art. 102 I p
+
+
+## Mandado de injunção
+Combate a inconstitucionalidade por omissão, assim como a ADI por omissão
+- ordem para ser cumprida
+- art. 5º LXXI
+- viabilizar o direito
+
+Exemplo - MI 943
+- aviso prévio proporcional ao tempo de serviço
+  - art. 7º XXI da CF88
+- regulamentado pela Lei 12506/2011
+
