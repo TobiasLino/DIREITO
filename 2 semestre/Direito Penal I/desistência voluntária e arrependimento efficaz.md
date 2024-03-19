@@ -21,4 +21,31 @@ O agente já percorreu todo o iter criminis
 - já lançou mão de todos os meios disponíveis
 - após terminar os atos executórios, mas antes da consumação, pratica alguma conuta positiva que vai evitar a consumação
 
+## Requisitos em comum
+- **_Voluntariedade_**
+- **_Eficiência_**
 
+## Natureza jurídica
+Ambos os institutos constituem causa de exclusão da tipicidade em relação ao crime inicialmente desejado
+- responde apenas pelos atos já praticados
+- art. 15
+
+São incompatíveis com os crimes culposos, salvo a hipótese de culpa imprópria
+- o agente não quer o resultado
+
+
+# Desistência voluntária
+O agente se abstêm de prosseguir os atos executórios
+- é possível que a desistência voluntária requeira uma atitude positiva
+  - crimes omissivos impróprios ou comissivos por omissão
+
+Cabível
+
+Fórmula de Frank para definir a desistênncia volluntária ou a tentativa punível
+- posso prosseguir, mas não quero -> desistência voluntária
+- quero prosseguir, mas não posso -> tentativa punível
+
+
+Adiamento da empreitada criminosa com a ideia de repeti-la em um momento mais oportuno
+
+# Arrependimento eficaz
